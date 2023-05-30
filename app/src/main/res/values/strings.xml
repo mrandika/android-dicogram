@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">Dicogram</string>
+
+    <string name="login_helper">Already have an account?</string>
+    <string name="login">Login</string>
+    <string name="guest_login">Login as Guest</string>
+    <string name="register_helper">Don\'t have an account?</string>
+    <string name="register">Register</string>
+    <string name="name">Fullname</string>
+    <string name="email">Email</string>
+    <string name="error_email_invalid">Email is not valid</string>
+    <string name="password">Password</string>
+    <string name="password_confirmation">Password confirmation</string>
+    <string name="error_password_invalid">Password is not valid</string>
+    <string name="error_password_notmatch">Password and confirmation is not match.</string>
+
+    <string name="connection_failure_title">No internet connection.</string>
+    <string name="connection_failure_subtitle">To access this content, please check your internet connection.</string>
+
+    <string name="login_failed">Login failed. Check your email and password.</string>
+    <string name="register_success">Register success. Please login with your email and password.</string>
+    <string name="register_failed">Register failed. Check your name, email and password.</string>
+
+    <string name="camera">Camera</string>
+    <string name="library">Photo Library</string>
+    <string name="camera_permission_failed">Access to camera was denied.</string>
+    <string name="camera_capture_failed">Failed to capture.</string>
+    <string name="camera_failed">Failed to open camera.</string>
+
+    <string name="location_permission_failed">Access to location was denied.</string>
+
+    <string name="camera_switch_description">Switch Camera</string>
+
+    <string name="upload_image_empty_error">Please choose image or take picture first.</string>
+    <string name="post_upload_failed">Failed to post. Please try again later.</string>
+
+    <string name="home" translatable="false">Home</string>
+    <string name="maps">Story Maps</string>
+    <string name="post_image_description">Story Image</string>
+    <string name="post" translatable="false">Post</string>
+    <string name="gallery_pick">Choose Story from Library</string>
+    <string name="capture">Capture</string>
+    <string name="new_post">New Story</string>
+    <string name="caption" translatable="false">Caption</string>
+    <string name="location_add">Add Location</string>
+    <string name="post_upload_success">Story uploaded!</string>
+    <string name="post_detail">Story Detail</string>
+
+    <string name="setting">Setting</string>
+    <string name="theme">Theme</string>
+    <string name="theme_description">Customize how Dicogram looks</string>
+    <string name="theme_light">Light</string>
+    <string name="theme_dark">Dark</string>
+    <string name="theme_default">System default</string>
+
+    <string name="error_guest_title">You\'re logged in as Guest.</string>
+    <string name="error_guest_subtitle">To view Dicogram posts, you\'ll need to login with your account. You can still create a guest post to share.</string>
+
+    <string name="error_empty_title">Nothing to see here, yet.</string>
+    <string name="error_empty_subtitle">Create your first post on Dicogram to show others.</string>
+
+    <string name="error_generic_title">There\'s a problem while processing your request.</string>
+    <string name="error_generic_subtitle">Dicogram unable to process your request. Please try again soon.</string>
+    <string name="error_generic_recovery">Try again</string>
+
+    <string name="logout">Logout</string>
+</resources>

@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">Dicogram</string>
+
+    <string name="login_helper">Sudah punya akun?</string>
+    <string name="login">Masuk</string>
+    <string name="guest_login">Masuk sebagai Tamu</string>
+    <string name="register_helper">Tidak punya akun?</string>
+    <string name="name">Nama Lengkap</string>
+    <string name="email">Email</string>
+    <string name="error_email_invalid">Email tidak valid</string>
+    <string name="password">Kata sandi</string>
+    <string name="password_confirmation">Konfirmasi kata sandi</string>
+    <string name="error_password_invalid">Kata sandi tidak valid</string>
+    <string name="error_password_notmatch">Kata sandi dan konfirmasi tidak cocok.</string>
+
+    <string name="connection_failure_title">Tidak ada koneksi internet.</string>
+    <string name="connection_failure_subtitle">Untuk mengakses konten ini, cek koneksi internet kamu.</string>
+
+    <string name="login_failed">Gagal masuk. Periksa email dan kata sandi kamu.</string>
+    <string name="register_success">Berhasil daftar. Harap masuk dengan email dan password kamu.</string>
+
+    <string name="camera">Kamera</string>
+    <string name="library">Galeri</string>
+    <string name="camera_permission_failed">Akses kamera ditolak.</string>
+    <string name="camera_capture_failed">Gagal mengambil gambar.</string>
+    <string name="camera_failed">Gagal membuka kamera.</string>
+
+    <string name="location_permission_failed">Akses lokasi ditolak.</string>
+
+    <string name="camera_switch_description">Ubah Kamera</string>
+
+    <string name="upload_image_empty_error">Harap pilih atau potret gambar terlebih dulu.</string>
+    <string name="post_upload_failed">Gagal posting. Coba lagi nanti.</string>
+
+    <string name="home">Home</string>
+    <string name="maps">Peta Story</string>
+    <string name="post_image_description">Gambar Story</string>
+    <string name="post">Post</string>
+    <string name="gallery_pick">Pilih Story dari Perpustakaan Foto</string>
+    <string name="capture">Ambil Gambar</string>
+    <string name="new_post">Story Baru</string>
+    <string name="caption">Caption</string>
+    <string name="location_add">Tambah Lokasi</string>
+    <string name="post_upload_success">Story diunggah!</string>
+    <string name="post_detail">Detail Story</string>
+
+    <string name="setting">Pengaturan</string>
+    <string name="theme">Tema</string>
+    <string name="theme_description">Atur tampilan Dicogram</string>
+    <string name="theme_light">Terang</string>
+    <string name="theme_dark">Gelap</string>
+    <string name="theme_default">Ikuti Sistem</string>
+
+    <string name="error_guest_title">Kamu masuk sebagai Tamu.</string>
+    <string name="error_guest_subtitle">Untuk melihat post Dicogram, kamu harus masuk dengan akunmu. Kamu masih dapat membuat dan membagikan postingan tamu.</string>
+
+    <string name="error_empty_title">Belum ada yang dapat dilihat.</string>
+    <string name="error_empty_subtitle">Buat post pertama kamu pada Dicogram untuk dilihat.</string>
+
+    <string name="error_generic_title">Ada masalah memproses permintaan kamu.</string>
+    <string name="error_generic_subtitle">Dicogram tidak dapat memproses permintaan kamu. Coba lagi nanti.</string>
+    <string name="error_generic_recovery">Coba lagi</string>
+
+    <string name="logout">Keluar</string>
+    <string name="register">Daftar</string>
+    <string name="register_failed">Gagal daftar. Periksa nama, email dan kata sandi.</string>
+</resources>
